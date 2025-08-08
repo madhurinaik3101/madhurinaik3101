@@ -1,6 +1,6 @@
 ## Hi, I am Madhuri! 
 
-💫 About Me:
+## 💫 About Me:
 I am a Data Engineer and a Data Analyst.<br>I am currently learning Gen AI, Apache Spark, Databricks, and LLMs.<br>I bring innovation, creativity, storytelling, and my personality to the team. <br>I am an adaptive, fast learner and love to work in fast-paced, ambiguous work environments.<br>Skilled in SQL, Python, R, Kubernetes, Jenkins, ETL, Big Data Analysis, and Data Visualization.<br>Your Go-To Data Girl with a Dashboard Superpower!<br>
 
 
