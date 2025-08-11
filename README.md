@@ -5,21 +5,40 @@ I am a Data Engineer and a Data Analyst.<br>I am currently learning Gen AI, Apac
 
 ## Check out my Projects:
 
+Database, Data Engineering, and Data Visualization <br>
+
+1. UNISERVE - An Internal Ticketing Database Management System <br>
+2. Retail Insights using Snowflake <br>
+3. YouTube Videos Trend Analysis in the US using R <br>
+
+Machine Learning, NLP, and Computer Vision <br>
+
+1. SmartHome-Energy-Optimization <br>
+2. Predicting Customer Churn using Visual Cues <br>
+3. NLP Restaurant Chatbot <br>
+4. Autonomous Navigation System Using Deep Learning <br>
+
+Scientific Computing for Data Science <br>
+
+1. Numerical Methods & Optimization Algorithms in Python
+
 Web Development: <br>
 1. Dynamic Quiz Platform using JavaScript <br>
 2. Blog Website using Django Framework <br>
 3. E-Commerce-Feedback-App-using-Spring-Boot-and-MySQL <br>
 4. Smoothie-Order-App-using-Streamlit-with-Snowflake <br>
-5. Bank Portal <br>
+5. Bank Portal using AngularJS <br>
+6. Travel Booking Website <br>
 
 Quality Assurance (QA) <br>
 
 1. Selenium-Website-Automated-Testing <br>
 
-Database and Data Visualization <br>
+Arduino - IoT Projects <br>
 
-1. UNISERVE <br>
-   
+1. Smart Bracelet <br>
+2. Smart Glass <br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurinnaik) 
 
