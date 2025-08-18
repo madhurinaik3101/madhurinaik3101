@@ -11,12 +11,15 @@ Database, Data Engineering, and Data Visualization <br>
 2. Retail Insights using Snowflake <br>
 3. ETL, YouTube Trend Prediction Model and Data Visualization <br>
 
-Machine Learning, NLP, and Computer Vision <br>
+Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
 
-1. SmartHome-Energy-Optimization <br>
-2. Predicting Customer Churn using Visual Cues <br>
-3. NLP Restaurant Chatbot <br>
-4. Autonomous Navigation System Using Deep Learning <br>
+1. LLM for Fine-Tuned Human Resource(HR) Assistant <br>
+2. LLM for Social Media Campaign Marketing Assistant <br>
+3. LLM for E-commerce Platform Shopping Assistant <br>
+4. Deep Learning Model for Smart Home Energy Optimization <br>
+5. Computer Vision Model for Sentiment Analysis through Customer Review Videos  <br>
+6. NLP Model for Restaurant Reservation and Info Assistant  <br>
+7. Deep Learning Model for Autonomous Navigation System <br>
 
 Scientific Computing for Data Science <br>
 
@@ -47,14 +50,15 @@ Arduino - IoT Projects <br>
 
 ## Certifications:
 
-1. Databricks Fundamentals Accreditation - Databricks
-2. Databricks Accredited - Introduction to Apache Spark - Databricks
-3. Global Data Stewardship
-4. Hands-On Essentials - Data Warehouse - Snowflake
-5. Hands-On Essentials - Data Lake - Snowflake
-6. Hands-On Essentials - Data Applications using Streamlit - Snowflake
-7. Hands-On Essentials - Collaboration and Marketplace - Snowflake
-8. Databricks Accredited - Generative AI Fundamentals
+1. Microsoft - Develop Generative AI Applications in Azure
+2. Databricks - Databricks Fundamentals Accreditation
+3. Databricks - Introduction to Apache Spark
+4. LinkedIn - Data Governance Frameworks and Global Data Stewardship
+5. Snowflake - Hands-On Essentials - Data Warehouse
+6. Snowflake - Hands-On Essentials - Data Lake
+7. Hands-On Essentials - Data Applications using Streamlit - Snowflake
+8. Hands-On Essentials - Collaboration and Marketplace - Snowflake
+9. Databricks Accredited - Generative AI Fundamentals
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhurinaik3101&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
