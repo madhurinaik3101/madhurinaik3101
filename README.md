@@ -15,7 +15,7 @@ Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
 
 1. LLM for Fine-Tuned Human Resource(HR) Assistant <br>
 2. LLM for Social Media Campaign Marketing Assistant <br>
-3. LLM for E-commerce Platform Shopping Assistant <br>
+3. AI-E-Commerce-Shopping Assistant  <br> <href> hhh</href>
 4. Deep Learning Model for Smart Home Energy Optimization <br>
 5. Computer Vision Model for Sentiment Analysis through Customer Review Videos  <br>
 6. NLP Model for Restaurant Reservation and Info Assistant  <br>
