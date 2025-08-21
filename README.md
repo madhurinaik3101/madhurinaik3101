@@ -26,7 +26,7 @@ Scientific Computing for Data Science <br> [COMING SOON]
 
 Web Development: <br> [COMING SOON]
 
-Quality Assurance (QA) <br> [COMING SOON]
+Quality Assurance (QA) <br> 
 
 1. Selenium-Website-Automated-Testing <br>
 
