@@ -5,36 +5,20 @@ I am a Data Engineer and a Data Analyst.<br>I am currently learning Gen AI, Apac
 
 ## Check out my Projects:
 
-Database, Data Engineering, and Data Visualization <br>
+Database, Data Engineering, and Data Visualization <br> [COMING SOON]
 
-1. UNISERVE - An Internal Ticketing Database Management System with Power BI Data Visualization Dashboard <br>
-2. Retail Insights using Snowflake <br>
-3. ETL, YouTube Trend Prediction Model and Data Visualization <br>
-
-Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
+Machine Learning, GenAI, LLM, NLP, and Computer Vision <br> 
 
 1. AI-Human-Resource(HR)-Assistant - LINK -  <br>
 2. AI-Social-Media-Campaign-Marketing-Assistant - LINK -  <br>
 3. AI-E-Commerce-Shopping-Assistant - LINK - <br>
 4. AI-Travel-Assistant-with-Prompt-Flow <br> 
-4. Deep Learning Model for Smart Home Energy Optimization <br>
-5. Computer Vision Model for Sentiment Analysis through Customer Review Videos  <br>
-6. NLP Model for Restaurant Reservation and Info Assistant  <br>
-7. Deep Learning Model for Autonomous Navigation System <br>
 
-Scientific Computing for Data Science <br>
+Scientific Computing for Data Science <br> [COMING SOON]
 
-1. Numerical Methods & Optimization Algorithms in Python
+Web Development: <br> [COMING SOON]
 
-Web Development: <br>
-1. Dynamic Quiz Platform using JavaScript <br>
-2. Blog Website using Django Framework <br>
-3. E-Commerce-Feedback-App-using-Spring-Boot-and-MySQL <br>
-4. Smoothie-Order-App-using-Streamlit-with-Snowflake <br>
-5. Bank Portal using AngularJS <br>
-6. Travel Booking Website <br>
-
-Quality Assurance (QA) <br>
+Quality Assurance (QA) <br> [COMING SOON]
 
 1. Selenium-Website-Automated-Testing <br>
 
