@@ -13,10 +13,10 @@ Database, Data Engineering, and Data Visualization <br> [COMING SOON]
 
 Machine Learning, GenAI, LLM, NLP, and Computer Vision <br> 
 
-1. AI-Human-Resource(HR)-Assistant - LINK -  <br>
-2. AI-Social-Media-Campaign-Marketing-Assistant - LINK -  <br>
-3. AI-E-Commerce-Shopping-Assistant - LINK - <br>
-4. AI-Travel-Assistant-with-Prompt-Flow <br> 
+1. Fine-Tuned-AI-HR-Assistant-with-Content-Filters - LINK - https://github.com/madhurinaik3101/Fine-Tuned-AI-HR-Assistant-with-Content-Filters  <br>
+2. RAG-Based-AI-Social-Media-Marketing-Campaign-Assistant - LINK - https://github.com/madhurinaik3101/RAG-Based-AI-Social-Media-Marketing-Campaign-Assistant  <br>
+3. AI-E-Commerce-Shopping-Assistant - LINK - https://github.com/madhurinaik3101/AI_E-Commerce_Shopping_Assistant <br>
+4. AI-Travel-Assistant-with-Prompt-Flow - LINK - https://github.com/madhurinaik3101/AI-Travel-Assistant-with-Prompt-Flow <br> 
 
 Scientific Computing for Data Science <br> [COMING SOON]
 
