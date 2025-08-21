@@ -15,7 +15,8 @@ Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
 
 1. AI-Human-Resource(HR)-Assistant - LINK -  <br>
 2. AI-Social-Media-Campaign-Marketing-Assistant - LINK -  <br>
-3. AI-E-Commerce-Shopping-Assistant - LINK - https://github.com/madhurinaik3101/AI_E-Commerce_Shopping_Assistant <br>
+3. AI-E-Commerce-Shopping-Assistant - LINK - <br>
+4. AI-Travel-Assistant-with-Prompt-Flow <br> 
 4. Deep Learning Model for Smart Home Energy Optimization <br>
 5. Computer Vision Model for Sentiment Analysis through Customer Review Videos  <br>
 6. NLP Model for Restaurant Reservation and Info Assistant  <br>
