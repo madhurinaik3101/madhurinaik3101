@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 I am a Data Scientist.<br>
-I am currently learning more about Gen AI, Apache Spark, Databricks, and LLMs.<br>
+I am currently.<br>
 I bring innovation, creativity, storytelling, and my personality to the team.<br>
 I am an adaptive, fast learner and love to work in fast-paced, ambiguous work environments.<br>
 Skilled in SQL, Python, R, Kubernetes, Jenkins, ETL, Big Data Analysis, and Data Visualization.<br>
