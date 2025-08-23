@@ -20,7 +20,10 @@ Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
 5. AI-Travel-Assistant-with-Prompt-Flow <br>
    LINK - https://github.com/madhurinaik3101/AI-Travel-Assistant-with-Prompt-Flow <br>
 
-Database, Data Engineering, and Data Visualization <br> [COMING SOON]
+Database, Data Engineering, and Data Visualization <br> [MORE PROJECTS COMING SOON]
+
+1. UNISERVE-RDBMS-with-Power-BI-Data-Visualization <br>
+LINK: https://github.com/madhurinaik3101/UNISERVE-RDBMS-with-Power-BI-Data-Visualization <br>
 
 Scientific Computing for Data Science <br> [COMING SOON]
 
