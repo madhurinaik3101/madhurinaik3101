@@ -1,15 +1,6 @@
 ## Hi, I am Madhuri! 
 
-## 💫 About Me:
-I am a Data Scientist.<br>
-I am currently.<br>
-I bring innovation, creativity, storytelling, and my personality to the team.<br>
-I am an adaptive, fast learner and love to work in fast-paced, ambiguous work environments.<br>
-Skilled in SQL, Python, R, Kubernetes, Jenkins, ETL, Big Data Analysis, and Data Visualization.<br>
-
 ## Check out my Projects:
-
-Machine Learning, GenAI, LLM, NLP, and Computer Vision <br> 
 
 1. Fine-Tuned-AI-HR-Assistant-with-Content-Filters<br>
    LINK - https://github.com/madhurinaik3101/Fine-Tuned-AI-HR-Assistant-with-Content-Filters  <br>
@@ -36,13 +27,3 @@ Machine Learning, GenAI, LLM, NLP, and Computer Vision <br>
 7. Hands-On Essentials - Data Applications using Streamlit - Snowflake
 8. Hands-On Essentials - Collaboration and Marketplace - Snowflake
 9. Databricks Accredited - Generative AI Fundamentals
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhurinaik3101&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhurinaik3101&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurinaik3101&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=madhurinaik3101&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
