@@ -10,7 +10,7 @@
    LINK - https://github.com/madhurinaik3101/AI_E-Commerce_Shopping_Assistant <br>
 5. AI-Travel-Assistant-with-Prompt-Flow <br>
    LINK - https://github.com/madhurinaik3101/AI-Travel-Assistant-with-Prompt-Flow <br>
-6. POWER BI DASHBOARD - University Ticketing System for Students <br>
+6. POWER BI - University Ticketing System for Students <br>
    LINK: https://github.com/madhurinaik3101/UNISERVE-RDBMS-with-Power-BI-Data-Visualization <br>
 7. TABLEAU - Japanese Anime Industry Analysis <br>
    LINK: https://public.tableau.com/views/JapaneseAnimeIndustryDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
