@@ -16,6 +16,8 @@
    LINK: https://public.tableau.com/views/JapaneseAnimeIndustryDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 8. TABLEAU - Netflix Data Analysis <br>
    LINK: https://public.tableau.com/views/NetflixDataAnalysis_17572820227820/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+9. Weather ETL Pipeline using Airflow and Astro <br>
+   LINK: https://github.com/madhurinaik3101/Weather_ETL_Data_Pipeline_using_Airflow_and_Astro
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurinnaik) 
