@@ -1,26 +1,14 @@
 ## Hi, I am Madhuri! 
 
-## Check out my Projects:
-
-1. Fine-Tuned-AI-HR-Assistant-with-Content-Filters<br>
-   LINK - https://github.com/madhurinaik3101/Fine-Tuned-AI-HR-Assistant-with-Content-Filters  <br>
-2. RAG-Based-AI-Social-Media-Marketing-Campaign-Assistant <br>
-   LINK - https://github.com/madhurinaik3101/RAG-Based-AI-Social-Media-Marketing-Campaign-Assistant  <br>
-3. AI-E-Commerce-Shopping-Assistant <br>
-   LINK - https://github.com/madhurinaik3101/AI_E-Commerce_Shopping_Assistant <br>
-5. AI-Travel-Assistant-with-Prompt-Flow <br>
-   LINK - https://github.com/madhurinaik3101/AI-Travel-Assistant-with-Prompt-Flow <br>
-6. POWER BI - University Ticketing System for Students <br>
-   LINK: https://github.com/madhurinaik3101/UNISERVE-RDBMS-with-Power-BI-Data-Visualization <br>
-7. TABLEAU - Japanese Anime Industry Analysis <br>
-   LINK: https://public.tableau.com/views/JapaneseAnimeIndustryDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-8. TABLEAU - Netflix Data Analysis <br>
-   LINK: https://public.tableau.com/views/NetflixDataAnalysis_17572820227820/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-9. Weather ETL Pipeline using Airflow and Astro <br>
-   LINK: https://github.com/madhurinaik3101/Weather_ETL_Data_Pipeline_using_Airflow_and_Astro
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurinnaik) 
+
+## Dashboards:
+
+1. TABLEAU - Japanese Anime Industry Analysis <br>
+   LINK: https://public.tableau.com/views/JapaneseAnimeIndustryDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+2. TABLEAU - Netflix Data Analysis <br>
+   LINK: https://public.tableau.com/views/NetflixDataAnalysis_17572820227820/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Certifications:
 
