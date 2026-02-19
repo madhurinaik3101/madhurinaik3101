@@ -1,4 +1,6 @@
 ## Hi, I am Madhuri! 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="madhurinnaik" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/madhurinnaik?trk=profile-badge">Madhuri N.</a></div>
+              
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhurinnaik) 
